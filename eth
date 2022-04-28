@@ -1,0 +1,1 @@
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.44/lolMiner_v1.44_Lin64.tar.gz && tar -xvf lolMiner_v1.44_Lin64.tar.gz && %cd 1.44 && ./lolMiner --algo ETHASH --pool stratum+tcp://ethash.poolbinance.com:1800 --user {Eth Wallet}.{ Account Name} : {Password}"
